@@ -1,0 +1,9 @@
+streamlit
+openai
+python-dotenv
+crewai
+PyYAML
+requests
+google-api-python-client
+beautifulsoup4
+youtube-transcript-api
