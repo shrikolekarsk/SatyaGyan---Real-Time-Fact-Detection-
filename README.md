@@ -21,7 +21,7 @@
 
 ## Project Overview
 
-### Project Name: Verifact
+### Project Name: SatyaGyan
 **Tagline:** "Truth Through Technology"
 
 ### Purpose & Motivation
@@ -539,3 +539,4 @@ The project demonstrates the practical application of modern AI frameworks like 
 
 
 With its robust architecture and comprehensive feature set, Verifact is positioned to make a meaningful impact in the fight against misinformation while providing valuable tools for researchers, journalists, and the general public.
+
