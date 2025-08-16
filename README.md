@@ -1,4 +1,4 @@
-# Verifact: AI-Powered Fact-Checking System
+# SatyaGyan: AI-Powered Fact-Checking System
 ## Comprehensive Project Documentation
 
 ---
@@ -536,5 +536,6 @@ verifact/
 Verifact represents a significant advancement in automated fact-checking technology, combining the power of multi-agent AI systems with comprehensive content processing capabilities. The system's modular architecture ensures scalability and maintainability while providing accurate, evidence-based verification across multiple content formats.
 
 The project demonstrates the practical application of modern AI frameworks like CrewAI for complex, multi-step workflows, and showcases how different technologies can be integrated to solve real-world problems in information verification and misinformation detection.
+
 
 With its robust architecture and comprehensive feature set, Verifact is positioned to make a meaningful impact in the fight against misinformation while providing valuable tools for researchers, journalists, and the general public.
