@@ -1,6 +1,6 @@
 # SatyaGyan: AI-Powered Fact-Checking System
 ## Comprehensive Project Documentation
-
+SatyaGyan is an AI-powered real-time fact-checking and content analysis application designed to evaluate the factual accuracy of information from multiple sources. It combines advanced Natural Language Processing (NLP), LLM-based reasoning, and a clean Streamlit-based UI to provide users with actionable insights about the truthfulness of online and offline content.
 ---
 
 ## Table of Contents
@@ -539,4 +539,5 @@ The project demonstrates the practical application of modern AI frameworks like 
 
 
 With its robust architecture and comprehensive feature set, Verifact is positioned to make a meaningful impact in the fight against misinformation while providing valuable tools for researchers, journalists, and the general public.
+
 
